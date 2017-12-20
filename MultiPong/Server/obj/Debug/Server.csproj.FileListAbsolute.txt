@@ -1,0 +1,5 @@
+C:\Users\Frankie\documents\visual studio 2017\Projects\MultiPong\Server\bin\Debug\Server.exe
+C:\Users\Frankie\documents\visual studio 2017\Projects\MultiPong\Server\bin\Debug\Server.pdb
+C:\Users\Frankie\documents\visual studio 2017\Projects\MultiPong\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Frankie\documents\visual studio 2017\Projects\MultiPong\Server\obj\Debug\Server.exe
+C:\Users\Frankie\documents\visual studio 2017\Projects\MultiPong\Server\obj\Debug\Server.pdb
