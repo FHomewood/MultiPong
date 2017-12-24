@@ -2,7 +2,7 @@
 
 MultiPong is a Work-In-Progress game developed in C# using the MonoGame (XNA) framework.
 
-<img src="https://i.imgur.com/qeNEkuv.png"/>
+<img src="https://i.imgur.com/3pyYjMv.png"/>
 
 It's a simple pong clone for one player in which you choose the number of vertices of your polygon and you play pong switching between paddles. The idea is to recreate this program using socket programming to create a full MultiPong online.
 
